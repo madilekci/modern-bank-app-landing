@@ -14,7 +14,7 @@ const Billing = () => (
 
     <div className={layout.sectionInfo}>
       <h2 className={styles.heading2}>
-        Easily control your
+        Easily control your {' '}
         <br className='sm:block hidden'/>
         billing & invoicing
       </h2>
